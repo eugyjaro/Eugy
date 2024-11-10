@@ -10,9 +10,10 @@ I'm Eugenio D.Jaro BSIT Student, a passionate student eager to dive into the wor
 - Learning Python and Django
 
 ### 👨‍💻 Future Goals:
-- Master frontend and backend development
-- Get proficient in frameworks like React, Node.js, Laravel, and Django
-- Contribute to open-source projects and collaborate with the tech community
+- Learn both frontend and backend development
+- Get familiar with frameworks like React, Node.js, Laravel, and Django
+- Explore open-source projects and collaborate with the tech community
+- Grow my skills and someday become a developer!
 
 ### 📫 How to reach me:
 - Email:jaroeugenio23@gmail.com
