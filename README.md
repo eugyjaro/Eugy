@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Eugenio D.Jaro 
+I'm Eugenio D. Jaro 
 
  Currently Learning:
 - Web Development (HTML, CSS, JavaScript)
