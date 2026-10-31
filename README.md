@@ -10,7 +10,7 @@ I'm Eugenio D.Jaro
 - Learning Python and Django
 
  Future Goals:
-- Learn both frontend and backend development
+- Learn both frontend and backend development to become a fullstock develper
 - Get familiar with frameworks like React, Node.js, Laravel, and Django
 - Explore open-source projects and collaborate with the tech community
 - Grow my skills and someday become a developer!
